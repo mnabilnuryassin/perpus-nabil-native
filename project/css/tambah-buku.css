@@ -1,0 +1,31 @@
+.form-control {
+	max-width: 300px;
+	margin-right: 50px;
+}
+
+.input-group {
+	margin-bottom: 0px;
+}
+
+.input-group-sm {
+	margin-top: 15px;
+}
+
+table tr {
+	height: 50px;
+	vertical-align: middle;
+}
+
+.tahun-terbit {
+	width: 200px;
+}
+
+.btn-keluar {
+	background: grey;
+	color: silver;
+}
+
+.btn-keluar:hover {
+	background: silver;
+	color: grey;
+}

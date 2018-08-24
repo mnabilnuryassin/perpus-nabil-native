@@ -1,0 +1,28 @@
+body,html {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Quicksand',serif;
+	background: #f7f7f7;
+	box-sizing: border-box;
+	color: black;
+
+}
+
+
+.form-control {
+	margin: auto 40% 10px 40%;
+	max-width: 20%;
+}
+
+.form-login {
+	margin-top: 250px;
+}
+
+.btn {
+	margin: auto 47.5% 10px 47.5%;
+	width: 5%;
+	padding-right: 5px;
+	padding-left: 5px;	 
+	font-family: century gothic;
+}

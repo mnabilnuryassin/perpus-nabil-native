@@ -1,0 +1,61 @@
+
+table {
+	margin: auto auto auto auto;
+}
+
+.table-view-sampul {
+	padding: 0 40px 40px auto;
+}
+
+.table-view-sinopsis {
+	height: 120px;
+	width: 200px;	
+	font-family: arial;
+	vertical-align: top;
+	overflow: auto;
+}
+
+.table-view-isi {
+	width: 500px;
+	font-family: arial;
+	vertical-align: top;
+	font-size: 15px;
+}
+
+.table-view-judul {
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 17px;
+	vertical-align: bottom;
+}
+
+.table-view-berkas {
+
+}
+
+.btn-keluar {
+	background: grey;
+	color: silver;
+}
+
+.btn-keluar:hover {
+	background: silver;
+	color: grey;
+}
+
+.ket-buku-wrap {
+	background: white;
+	height: 79%; 
+	width: 54%;
+	margin: auto auto auto 2%;
+	padding: 1%;
+	box-shadow: 1px 1px 10px #888888;
+	overflow: auto;
+}
+
+.ket-buku {
+	background: white;
+	height: 100%;
+	width: 100%;
+	float: left;
+}

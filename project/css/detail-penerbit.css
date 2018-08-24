@@ -1,0 +1,95 @@
+h2 {
+	margin-right: 1%;
+}
+
+#table-buku-wrap {
+	float: left;
+	background: white;
+	width: 70%;
+	height: 80%;
+	padding: 1%;
+	padding-top: 0px;
+	position: absolute;
+	margin-left: 1%;
+	box-shadow: -3px 3px 10px #888888;
+	overflow: auto;
+}
+
+.table-buku {
+	background: white;
+	width: 100%;
+	height: 100%;
+}
+
+.table-buku tr {
+	float: left;
+}
+
+.table-buku tr td {
+	height: 200px;
+	width: 250px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.table-buku tr td:hover {
+	background: #e5e5e5;
+	height: 200px;
+	width: 250px;
+}
+
+.table-buku tr td a {
+	color: black;
+
+}
+
+.table-buku tr td a:hover {
+	text-decoration: none;
+}
+
+#table-penerbit-wrap {
+	position: absolute;
+	background: white;
+	width: 25%;
+	height: 15%;
+	padding: 1%;
+	margin-right: 1%;
+	margin-left: 74%;
+	box-shadow: -3px 3px 10px #888888;
+}
+
+
+.table-penerbit {
+	background: white;
+	width: 100%;
+	height: 100%;
+	font-size: 12px;
+}
+
+.btn-keluar {
+	background: grey;
+	color: silver;
+}
+
+.btn-keluar:hover {
+	background: silver;
+	color: grey;
+}
+
+.penerbit-judul {
+	text-align: left;
+	font-size: 12px;
+}
+
+.judul-buku {
+	font-weight: bolder;
+	font-size: 13px;
+	margin-bottom: -30px;
+	margin-top: 10px;
+}
+
+.tahun-terbit-buku {
+	margin-top: 5px;
+	font-style: italic;
+	font-size: 13px;
+}

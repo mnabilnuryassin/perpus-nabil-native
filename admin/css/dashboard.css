@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+/*HEAD*/
+
+header {
+	color: white;	
+	font-size: 250%;
+	background: #002a38;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	height: 7%;
+	width: 30%;
+	position: relative;
+}
+
+/*NAV*/
+
+.btn-keluar {
+	background: white;
+	width: 100px;
+	height: 70px;
+	position: relative;
+	float: right;
+	margin: -70px auto auto auto;
+	padding-top: 23px;
+	color: black;
+	text-align: center;
+	border-left-color: #e5e5e5;
+	border-left-width: 1px;
+	border-left-style: solid;
+}
+
+.btn-keluar:hover {
+	background: #e5ebed;
+}
+
+/*SIDE*/
+
+#side-wrapper {
+	background: #003c51;
+	height: 91%;
+	width: 20%;
+	padding: 16% 1%;
+}
+
+aside {
+	background: #003c51;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	color: red;
+	padding-top: auto;
+	padding-bottom: auto;
+}
+
+ul a li {
+	max-height: 50px;
+	max-width: 100%;
+	background: #003c51;
+	list-style: none;
+	padding-left: 10%;
+	padding-top: 4%;
+	color: white;
+	overflow: hidden;
+}
+
+ul a li:hover {
+	background: #326273;
+}
+
+ul a:hover {
+	text-decoration: none;
+}
+
+/*CONTENT*/
+
+content {
+	width: 80%;
+	height: 91%;
+	position: absolute;
+	display: block;
+	background: #e5ebed;
+	margin: auto auto auto 20%;
+	padding: 1%;
+}
+
+.buku {
+	width: 30%;
+	height: 20%;
+	padding: 1%;
+	background-color: white;
+	position: relative;
+	overflow: auto;
+}
+
+
+

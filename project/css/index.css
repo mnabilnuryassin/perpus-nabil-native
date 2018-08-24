@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+h1	{
+	font-family: century gothic;
+	margin: 250px auto auto 37.5%;
+	color: grey;
+}
+
+table {
+	margin: 20px auto auto 42.6%;
+}
+
+table tr td {
+
+}
+
+.btn {
+	width: 100px;
+	background-color: white;
+	color: black;
+}
